@@ -1,4 +1,3 @@
-## Zack Altom's Portfolio
 # Web Developer
 
 Simple Login Form created using ASP.NET MVC and SQL
